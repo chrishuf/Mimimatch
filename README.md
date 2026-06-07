@@ -20,7 +20,7 @@ You need the following external sources:
 The FreeImage library 
 https://freeimage.sourceforge.io/
 
-OpenCV with the contribution extensions complied 
+OpenCV with the contribution extensions compiled 
 https://github.com/opencv/opencv    
 https://github.com/opencv/opencv_contrib
 (namely the mcc module)
