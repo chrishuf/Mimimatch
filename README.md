@@ -2,18 +2,20 @@
 Matches two images of Macbeth charts to each other and generates a bmd fusion tree in the clipboard
 Mimimatch
 
-mimimatch is an experimental tool, two match two macbeth charts towards each other
+mimimatch is an experimental tool, to match two macbeth charts towards each other
 and creating a fusion node setup ready to be copy pasted in blackmagic fusion
 
-The idea behind this is, that you don't need to color correct to a "neutral" value
-but match two seperate inputs to each other, minimizing the inpact to each other
+The idea behind this is, to skip any color normalisation and directly match two
+sources directly to each other.
 
 more info can be found at:
 https://www.splotchdog.com/index.php?option=com_content&view=article&id=143&Itemid=171 
  
 
 
-complie instructions
+compile instructions
+
+You need the following external sources:
 
 The FreeImage library 
 https://freeimage.sourceforge.io/
@@ -25,6 +27,7 @@ https://github.com/opencv/opencv_contrib
 wxwidgets
 https://wxwidgets.org/
 
-The files are released wiihout project files but you can simply copy/overwrite the minimal example in wxwidgets
-and replace / link the files.
+The files are released without project files but you can simply copy/overwrite the minimal example in wxwidgets
+and replace / link the needed files. 
+Didn't tested linux compile, but I didn't used any weird things, so it should be straight forward.
  
