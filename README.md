@@ -1,6 +1,5 @@
 # Mimimatch
 Matches two images of Macbeth charts to each other and generates a bmd fusion tree in the clipboard
-Mimimatch
 
 mimimatch is an experimental tool, to match two macbeth charts towards each other
 and creating a fusion node setup ready to be copy pasted in blackmagic fusion
