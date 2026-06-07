@@ -4,8 +4,7 @@ Matches two images of Macbeth charts to each other and generates a bmd fusion tr
 mimimatch is an experimental tool, to match two macbeth charts towards each other
 and creating a fusion node setup ready to be copy pasted in blackmagic fusion
 
-The idea behind this is, to skip any color normalisation and directly match two
-sources directly to each other.
+The idea behind this is, to skip any color normalisation.
 
 more info can be found at:
 https://www.splotchdog.com/index.php?option=com_content&view=article&id=143&Itemid=171 
