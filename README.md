@@ -11,6 +11,8 @@ but match two seperate inputs to each other, minimizing the inpact to each other
 more info can be found at:
 https://www.splotchdog.com/index.php?option=com_content&view=article&id=143&Itemid=171 
  
+
+
 complie instructions
 
 The FreeImage library 
